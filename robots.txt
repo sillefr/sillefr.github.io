@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sillefr.github.io/sitemap/sitemap.txt
